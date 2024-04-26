@@ -2,12 +2,12 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Contents
+  - caption: Workshops
     chapters:
-    - file: some_content/overview.md
-# START REMOVE-FROM-PUBLISH
-      sections:
-      - file: some_content/text_and_code.ipynb
-# END REMOVE-FROM-PUBLISH
-    - file: references.md
-    - file: credits.md
+    - file: 2024/workshop/01.ipynb
+# # START REMOVE-FROM-PUBLISH
+#       sections:
+#       - file: some_content/text_and_code.ipynb
+# # END REMOVE-FROM-PUBLISH
+#     - file: references.md
+#     - file: credits.md
