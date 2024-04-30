@@ -7,6 +7,16 @@ parts:
     - file: 2024/workshop/01.ipynb
       sections:
       - file: 2024/workshop/01_solution.ipynb
+
+  - caption: EVA
+    chapters:
+    - file: 2024/EVA/overview
+    - file: 2024/EVA/threshold
+      sections:
+      - file: 2024/EVA/poisson
+      - file: 2024/EVA/mrl
+      - file: 2024/EVA/stability
+      - file: 2024/EVA/dispersion_index
 # # START REMOVE-FROM-PUBLISH
 #       sections:
 #       - file: some_content/text_and_code.ipynb
