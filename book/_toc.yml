@@ -5,6 +5,8 @@ parts:
   - caption: Workshops
     chapters:
     - file: 2024/workshop/01.ipynb
+      sections:
+      - file: 2024/workshop/01_solution.ipynb
 # # START REMOVE-FROM-PUBLISH
 #       sections:
 #       - file: some_content/text_and_code.ipynb
