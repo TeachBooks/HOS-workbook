@@ -7,7 +7,9 @@ parts:
     - file: 2024/workshop/01.ipynb
       sections:
       - file: 2024/workshop/01_solution.ipynb
-
+    - file: 2024/workshop/02.ipynb
+    - file: 2024/workshop/03.ipynb
+    
   - caption: EVA
     chapters:
     - file: 2024/EVA/overview
