@@ -8,6 +8,7 @@ parts:
       sections:
       - file: 2024/workshop/01_solution.ipynb
     - file: 2024/workshop/02.ipynb
+      title: Workshop 02
     - file: 2024/workshop/03.ipynb
       title: Workshop 03
   - caption: EVA
