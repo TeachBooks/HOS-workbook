@@ -10,11 +10,11 @@ parts:
     - file: 2024/workshop/02.md
       title: Workshop 02
       sections:
-      - file: 2024/workshop/02/report
+      - file: 2024/workshop/02/report.md
         title: Report
-      - file: 2024/workshop/02/report
+      - file: 2024/workshop/02/analysis.ipynb
         title: Analysis
-      - file: 2024/workshop/02/report
+      - file: 2024/workshop/02/feedback.md
         title: Feedback
     - file: 2024/workshop/03.ipynb
       title: Workshop 03
