@@ -18,6 +18,13 @@ parts:
         title: Feedback
     - file: 2024/workshop/03.ipynb
       title: Workshop 03
+    - file: 2024/workshop/04.md
+      title: Workshop 04
+      sections:
+      - file: 2024/workshop/04/report.md
+        title: Report
+      - file: 2024/workshop/04/analysis.ipynb
+        title: Analysis
   - caption: EVA
     chapters:
     - file: 2024/EVA/overview
