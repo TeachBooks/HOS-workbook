@@ -38,6 +38,7 @@ parts:
     chapters:
     - file: 2024/component/overview
     - file: 2024/component/notation
+    - file: 2024/component/form
       # sections:
       # - file: 2024/EVA/poisson
 # # START REMOVE-FROM-PUBLISH
