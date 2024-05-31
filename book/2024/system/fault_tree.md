@@ -22,7 +22,7 @@ The _gates_ in the fault tree approach represent how the collective function of 
 
 An AND gate is represented by a symbol with a horizontal line on the bottom, as illustrated below. It represents the case where failure of _all_ of the components results in failure of the sub-system (hence the name "AND"); a parallel system.
 
-```{image} ./figures/gate_and.png
+```{image} ./figures/gate_and.jpg
 :alt: AND gate
 :width: 300px
 :align: center
@@ -32,7 +32,7 @@ An AND gate is represented by a symbol with a horizontal line on the bottom, as 
 
 An OR gate is represented by a symbol with a concave-down curve on the bottom, as illustrated below. It represents the case where failure of _any_ of the components results in failure of the sub-system (hence the name "OR"); a series system.
 
-```{image} ./figures/gate_or.png
+```{image} ./figures/gate_or.jpg
 :alt: OR gate
 :width: 300px
 :align: 
