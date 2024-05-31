@@ -25,6 +25,8 @@ parts:
         title: Report
       - file: 2024/workshop/04/analysis.ipynb
         title: Analysis
+    - file: 2024/workshop/06.md
+      title: Workshop 06
   - caption: EVA
     chapters:
     - file: 2024/EVA/overview
@@ -40,6 +42,10 @@ parts:
     - file: 2024/component/notation
     - file: 2024/component/form
     - file: 2024/component/mcs_form
+  - caption: System Reliability
+    chapters:
+    - file: 2024/system/overview
+    - file: 2024/component/fault_tree
       # sections:
       # - file: 2024/EVA/poisson
 # # START REMOVE-FROM-PUBLISH
