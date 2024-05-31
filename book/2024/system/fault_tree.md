@@ -24,7 +24,7 @@ An AND gate is represented by a symbol with a horizontal line on the bottom, as 
 
 ```{image} ./figures/gate_and.jpg
 :alt: AND gate
-:width: 300px
+:width: 150px
 :align: center
 ```
 
@@ -34,5 +34,5 @@ An OR gate is represented by a symbol with a concave-down curve on the bottom, a
 
 ```{image} ./figures/gate_or.jpg
 :alt: OR gate
-:width: 300px
-:align: 
+:width: 150px
+:align: center
