@@ -45,7 +45,7 @@ parts:
   - caption: System Reliability
     chapters:
     - file: 2024/system/overview
-    - file: 2024/component/fault_tree
+    - file: 2024/system/fault_tree
       # sections:
       # - file: 2024/EVA/poisson
 # # START REMOVE-FROM-PUBLISH
