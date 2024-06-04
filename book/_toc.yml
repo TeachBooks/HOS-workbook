@@ -38,6 +38,10 @@ parts:
         title: Feedback
     - file: 2024/workshop/06.md
       title: Workshop 06
+    - file: 2024/workshop/07.md
+      title: Workshop 07
+    - file: 2024/workshop/08.md
+      title: Workshop 08
   - caption: EVA
     chapters:
     - file: 2024/EVA/overview
