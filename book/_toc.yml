@@ -25,6 +25,17 @@ parts:
         title: Report
       - file: 2024/workshop/04/analysis.ipynb
         title: Analysis
+    - file: 2024/workshop/05.md
+      title: Workshop 05
+      sections:
+      - file: 2024/workshop/05/report.md
+        title: Report
+      - file: 2024/workshop/05/analysis_det.ipynb
+        title: Analysis (Deterministic)
+      - file: 2024/workshop/05/analysis_rel.ipynb
+        title: Analysis (Reliability)
+      - file: 2024/workshop/05/feedback.md
+        title: Feedback
     - file: 2024/workshop/06.md
       title: Workshop 06
   - caption: EVA
