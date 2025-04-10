@@ -9,9 +9,8 @@ execute:
 only_build_toc_files: true
 
 html:
-  favicon : "figures/favicon.ico"
-  announcement:  "This book is from the 2023-24 academic year and is no longer maintained. For current students visit <a href='https://tudelft-citg.github.io/HOS-prob-design-25/' style='color:white'>tudelft-citg.github.io/HOS-prob-design-25</a>."
-
+  favicon: "figures/favicon.ico"
+  
 
 
 sphinx:
@@ -28,6 +27,7 @@ sphinx:
       use_issues_button : true
       launch_buttons:
           thebe: true
+      announcement: "This book is from the 2023-24 academic year and is no longer maintained. For current students visit <a href='https://tudelft-citg.github.io/HOS-prob-design-25/' style='color:white'>tudelft-citg.github.io/HOS-prob-design-25</a>."
   extra_extensions:
     - sphinx.ext.imgconverter
     - jupyterbook_patches
